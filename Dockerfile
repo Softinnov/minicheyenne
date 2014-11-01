@@ -8,8 +8,6 @@ ADD lib386 /lib
 
 # cheyenne stuff 
 ADD cheyenne /cheyenne
-ADD httpd.cfg /httpd.cfg
-ADD index.html /index.html
 
 # launching it
-CMD ["/cheyenne"]
+CMD ["/cheyenne/cheyenne"]
