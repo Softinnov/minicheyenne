@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t=softinnov/cheyenne .
+docker build -t softinnov/minicheyenne .
