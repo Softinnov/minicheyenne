@@ -1,4 +1,4 @@
-docker-cheyenne
+minicheyenne
 ===============
 
 Cheyenne docker image
