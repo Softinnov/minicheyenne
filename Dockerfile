@@ -7,7 +7,7 @@ ADD lib386 /lib
 #ADD bins /bin
 
 # cheyenne stuff 
-ADD cheyenne /cheyenne
+ADD cheyenne /
 
 # launching it
-CMD ["/cheyenne/cheyenne"]
+CMD ["/cheyenne"]
