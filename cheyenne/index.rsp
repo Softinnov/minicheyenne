@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cheyenne Docker</title>
+    </head>
+    <body>
+        <h1>Cheyenne Docker Image in less than 3 Mo !</h1>
+        <blockquote>
+            <p>It works on <%= system/network/host %> </p>
+        </blockquote>
+        <footer>
+            <a href="https://github.com/Softinnov/minicheyenne">GitHub</a>
+        </footer>
+    </body>
+</html>
